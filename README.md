@@ -1,0 +1,2 @@
+# NLP-Analysis-UN-Debates
+NLP analysis to find the relationship between terrorism and democracy. It will also examine the differences in frequency of terrorism related words before and after September 11, 2001. An exploratory data analysis was performed on the datasets of democ- racy index and the frequency and scale of terrorist attacks across the globe. The corpus of UN speeches is also included in this analysis.
